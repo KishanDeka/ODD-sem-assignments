@@ -1,1 +1,1 @@
-# EVEN SEM assignments
+# ODD SEM assignments
